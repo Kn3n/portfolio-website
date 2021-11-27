@@ -1,9 +1,9 @@
 # Website
-_Simple website here you can see how to work github hosting_
+_Simple website where i want show me firts portfolio hosted in github page_
 
 ## Starting 🚀
 
-Look joseluu.website to see the premade website 
+Look the url to see the portfolio
 
 
 ### Pre-requeriment 📋
