@@ -3,7 +3,7 @@ _Simple website where i want show me firts portfolio hosted in github page_
 
 ## Starting 🚀
 
-Look the url to see the portfolio
+Check the main branch to check all website with 0 error and all feature to use in your personal portfolio
 
 
 ### Pre-requeriment 📋
