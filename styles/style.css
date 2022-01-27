@@ -17,4 +17,5 @@ body {
 .github {
     border: black solid 4px;
     border-radius: 3px;
+    text-align: center;
 }
