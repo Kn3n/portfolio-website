@@ -1,21 +1,4 @@
 body {
-    font-family: "Oswald", sans-serif;
-    background-color: #cdd5d9;
-}
-
-.header{
-    text-align: center;
-    background-color: rgba(37, 37, 37, 0.226);
-}
-
-.github-content{
-    position: absolute;
-    left: 4%;
-    height: 100%;
-}
-
-.github {
-    border: black solid 4px;
-    border-radius: 3px;
-    text-align: center;
+    background-color: #000000;
+    nav-index: auto;
 }
