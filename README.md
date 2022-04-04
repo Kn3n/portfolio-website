@@ -19,7 +19,6 @@ Intellij Ultimate(php storm)
 ## Autors ✒️
 
 * **José Luis Fuentes Parra** - *Developer* - [Joseluu_315](https://github.com/Joseluu315)
-* **Fulanito Detal** - *Make the readme* - [fulanitodetal](#fulanito-de-tal)
 
 Look [contributors](https://github.com/your/project/contributors) to see all contributors in the project.
 
